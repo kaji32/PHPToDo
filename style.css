@@ -1,0 +1,10 @@
+table{
+    border-collapse: collapse;
+}
+.itemName{
+    width: 300px;
+}
+.itemCreatedAt, .itemComplete{
+    width: 200px;
+}
+
